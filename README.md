@@ -14,4 +14,4 @@ The dataset used for this analysis is stored in the file `export-utf8.csv`. It c
 
 - Top 10 Bar Chart: This visualization focuses on the top 10 zip code values with the highest order brutto sum. It provides a more focused view of the top performers.
 
-- Pie Chart: The pie chart showcases the proportion of the total order brutto sum contributed by each zip code. It highlights the relative contributions of the mssys_bill_zip values to the total sum.
+- Pie Chart: The pie chart showcases the proportion of the total order brutto sum contributed by each zip code. It highlights the relative contributions of the zip code values to the total sum.
